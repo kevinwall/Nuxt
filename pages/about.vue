@@ -1,21 +1,20 @@
 <template>
-  <div>
-    <h2>
-      Bem vindo ao meu app
-    </h2>
-  </div>
+    <div>
+        <h1>Projeto em NuxtJS</h1>
+        <p>Esse projeto mostra um routing feito com NuxtJS</p>
+    </div>
 </template>
 
 <script>
 export default{
     head() {
         return {
-            title: "Home page",
+            title: "Sobre a aplicação",
             meta: [
                 {
                     hid: "descrição",
                     name: "descrição",
-                    content: "home page do app"
+                    content: "explicação sobre o objetivo do app"
                 }
             ]
         };

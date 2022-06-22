@@ -1,21 +1,17 @@
 <template>
-  <div>
-    <h2>
-      Bem vindo ao meu app
-    </h2>
-  </div>
+    <div>Olá pessoal da turma</div>
 </template>
 
 <script>
 export default{
     head() {
         return {
-            title: "Home page",
+            title: "Apresentação",
             meta: [
                 {
                     hid: "descrição",
                     name: "descrição",
-                    content: "home page do app"
+                    content: "aba de apresentação do app"
                 }
             ]
         };
