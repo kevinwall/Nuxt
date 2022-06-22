@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\kw_19\\\\Downloads\\\\Nuxt\\\\helloworld\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_15f43b0f"
+  },
+  {
+    "name": "apresentacao",
+    "path": "/apresentacao",
+    "component": "C:\\\\Users\\\\kw_19\\\\Downloads\\\\Nuxt\\\\helloworld\\\\pages\\\\apresentacao\\\\index.vue",
+    "chunkName": "pages/apresentacao/index",
+    "_name": "_417bca8a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\kw_19\\\\Downloads\\\\Nuxt\\\\helloworld\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_35ac15d4"
+  }
+]
